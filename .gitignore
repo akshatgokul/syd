@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+
+# Audio files
+*.aac
+*.flac
+*.mp3
+*.wav
+*.opus
